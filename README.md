@@ -1,6 +1,6 @@
 # Projeto Banco de Dados Escolar
 
-Este projeto implementa um **banco de dados relacional** para gerenciar informações de alunos, docentes, cursos e matrículas em uma instituição de ensino.
+Este projeto simula um **banco de dados relacional** para gerenciar informações de alunos, docentes, cursos e matrículas em uma instituição de ensino.
 
 ## 🧱 Estrutura do Banco
 - **Tabelas:** ALUNOS, DOCENTES, CURSOS, COMPONENTES, MATRICULAS, ALUNOS_CURSOS  
@@ -9,7 +9,15 @@ Este projeto implementa um **banco de dados relacional** para gerenciar informa�
 
 ## 🧠 Tecnologias
 - SQL (Oracle Database)
-- Scripts compatíveis com SQL Developer
+- Modelagem relacional
+
+## 🧩 Funcionalidades
+- Criação de tabelas e chaves estrangeiras
+- Inserção e atualização de registros
+- Consultas de dados e relacionamentos
+
+## 📚 Objetivo
+Exercitar a modelagem de bancos de dados e o uso de comandos SQL.
 
 ## 📂 Arquivos
 - `script_banco_escola.sql` → contém todo o código SQL do projeto.
